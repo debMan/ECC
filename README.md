@@ -1,4 +1,4 @@
-# ECC: Employee competence certificate
+# ECC: Employee Competence Certificate
 
 A simple project to verify employees have competence to work.
 
