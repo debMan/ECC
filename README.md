@@ -22,8 +22,8 @@ A simple project to verify employees have competence to work.
 
 ## More info:
 
-[CEP issue #43](https://github.com/Carrene/CEP/issues/43)
-[CEP issue #47 vim](https://github.com/Carrene/CEP/issues/47)
-[CEP issue #45 python3.6](https://github.com/Carrene/CEP/issues/45)
-[CEP issue #43](https://github.com/Carrene/CEP/issues/43)
-
+* [CEP issue #43](https://github.com/Carrene/CEP/issues/43)
+* [CEP issue #47 vim](https://github.com/Carrene/CEP/issues/47)
+* [CEP issue #45 python3.6](https://github.com/Carrene/CEP/issues/45)
+* [CEP issue #43](https://github.com/Carrene/CEP/issues/43)
+ 
