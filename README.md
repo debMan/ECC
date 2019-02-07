@@ -8,16 +8,16 @@ A simple project to verify employees have competence to work.
 - [ ] IPv4 and IPv6
 - [ ] locale language
 - [ ] apt source list
-- [ ] snapd, ufw, cloud status
-- [ ] xclip, git, python3.6, pip3.6 ipython vim terminator git curl
-- [ ] vim configed
+- [ ] snapd, ufw, and cloud-services status
+- [ ] xclip, git, python3.6, pip3.6, ipython, vim, terminator, curl
+- [ ] vim and terminator configuration
 - [ ] gateways aliases
 - [ ] AppArmor (?)
 - [ ] Apport (?)
-- [ ] nautilus files view style
-- [ ] logged in gitter
+- [ ] nautilus file manager
+- [ ] gitter
 - [ ] Clipboard
-- [ ] Desktop clearness
+- [ ] Desktop organize
 
 
 ## More info:
