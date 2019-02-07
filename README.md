@@ -15,6 +15,7 @@ A simple project to verify employees have competence to work.
 - [ ] AppArmor (?)
 - [ ] Apport (?)
 - [ ] nautilus file manager
+- [ ] Dropbox installed and added to nautilus bookmarks
 - [ ] gitter
 - [ ] Clipboard
 - [ ] Desktop organize
