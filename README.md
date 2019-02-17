@@ -4,8 +4,9 @@ A simple project to verify employees have competence to work.
 
 ## checklist
 
+- [x] IPv6 disabled
+- [x] IPv4 gai.conf set correctly.
 - [ ] DNS sonfigured.
-- [ ] IPv6 disabled and IPv4 set correctly.
 - [ ] locale language set to `en_US.UTF-8`.
 - [ ] apt source list changed correctly.
 - [ ] snapd, ufw, and cloud-services disabled and removed.
