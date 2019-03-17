@@ -1,13 +1,13 @@
 # ECC: Employee Competence Certificate
 
-A simple project to verify the competence of employees to work.
+A simple project within which the competence of employees to work is assessed.
 
 ## checklist
 
 - [x] IPv6 disabled
 - [x] IPv4 gai.conf set correctly.
 - [ ] DNS configured.
-- [ ] locale language set to `en_US.UTF-8`.
+- [x] locale language set to `en_US.UTF-8`.
 - [ ] apt source list changed correctly.
 - [ ] snapd, ufw, and cloud-services disabled and removed.
 - [ ] xclip, git, python3.6, pip3.6, ipython, vim, terminator, curl installed.
